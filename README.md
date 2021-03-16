@@ -1,3 +1,7 @@
+# Yeah I know I'm running behind in everything. I'm working on catching up and submitting for late credit, if any
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
